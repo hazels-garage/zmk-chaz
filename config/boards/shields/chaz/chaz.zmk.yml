@@ -1,0 +1,8 @@
+file_format: "1"
+id: chaz
+name: "Chaz"
+type: shield
+url: https://github.com/hazels-garage/chaz
+requires: [pro_micro]
+features:
+  - keys
