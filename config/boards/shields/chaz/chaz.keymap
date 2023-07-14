@@ -1,4 +1,4 @@
-/*
+a/*
  * Copyright (c) 2023 The ZMK Contributors
  *
  * SPDX-License-Identifier: MIT
@@ -29,10 +29,10 @@
 
         GAMES_layer {
             bindings = <
-                &kp ESC     &kp Q       &kp W   &kp E       &kp R       &kp T       &kp N1     &kp N5            &kp N9     &kp BSPC
-                &kp TAB     &kp A       &kp S   &kp D       &kp F       &kp G       &kp N2     &kp N6            &kp N0     &tog 2
-                &kp LSHIFT  &kp Z       &kp X   &kp C       &kp V       &kp B       &kp N3     &kp N7            &kp RET
-                &kp LCTRL   &kp GRAVE   &mo 1   &kp SPACE   &kp SPACE               &kp N4     &kp N8     &tog 3
+                &kp ESC     &kp Q       &kp W   &kp E       &kp R       &kp T       &kp Y       &kp N1     &kp N5     &kp BSPC
+                &kp TAB     &kp A       &kp S   &kp D       &kp F       &kp G       &kp H       &kp N2     &kp N6     &tog 2
+                &kp LSHIFT  &kp Z       &kp X   &kp C       &kp V       &kp B       &kp N       &kp N3     &kp RET
+                &kp LCTRL   &kp GRAVE   &mo 1   &kp SPACE   &kp SPACE               &kp N4      &kp N8     &tog 3
             >;
         };
         NUMBERS_layer {
