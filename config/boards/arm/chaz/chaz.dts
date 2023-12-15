@@ -11,7 +11,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-    model = "Le Chiffre (stm32)";
+    model = "Chaz";
     compatible = "hazel,chaz", "st,stm32f072";
 
     chosen {
