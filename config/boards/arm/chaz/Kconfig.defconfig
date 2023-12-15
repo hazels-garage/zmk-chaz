@@ -1,0 +1,18 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if BOARD_CHAZ
+
+config BOARD
+    default "chaz"
+
+config ZMK_KEYBOARD_NAME
+    default "Chaz"
+
+config ZMK_USB
+    default y
+
+config ZMK_KSCAN_MATRIX_POLLING
+    default y
+
+endif # BOARD_CHAZ

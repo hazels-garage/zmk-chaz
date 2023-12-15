@@ -1,0 +1,10 @@
+file_format: "1"
+id: chaz
+name: Chaz
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+url: https://github.com/hazels-garage/chaz
